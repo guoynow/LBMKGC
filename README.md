@@ -16,7 +16,7 @@
 > - numpy==2.1.2
 > - scikit_learn==1.6.1
 > - tqdm==4.64.1
-> - Our code is based on OpenKE, an open-source KGC project. You can refer to the [OpenKE repo](https://github.com/thunlp/OpenKE) to build the environ
+> - Our code is based on OpenKE, an open-source KGC project. You can refer to the [OpenKE repo](https://github.com/thunlp/OpenKE) to build the environment.
 
 ## Train and Evaluation
 
