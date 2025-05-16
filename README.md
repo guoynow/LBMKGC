@@ -6,7 +6,7 @@
 
 >We use the MMKG datasets proposed in [MMRNS](https://github.com/quqxui/MMRNS). 
 >
->We use the SDXL and CLIP proposed in [Hugging Face](https://huggingface.co/).
+>We use the SDXL and CLIP provided by [Hugging Face](https://huggingface.co/).
 >
 >You need to download the [embeddings](https://drive.google.com/drive/folders/1WBt7UjDFgkIRawRmgEEpX4GW8U6A9l_P) and [checkpoint](https://drive.google.com/drive/folders/1pqVXLs6j-hGTYeo0b1s46HBFJ6yknaT3), and place them in the directories "./embeddings" and "./checkpoint" respectively.
 
