@@ -8,7 +8,7 @@
 >
 >We use the SDXL and CLIP provided by [Hugging Face](https://huggingface.co/).
 >
->You need to download the [embeddings](https://drive.google.com/drive/folders/1WBt7UjDFgkIRawRmgEEpX4GW8U6A9l_P), and place them in the "./embeddings".
+>You need to download the [embeddings](https://drive.google.com/drive/folders/1WBt7UjDFgkIRawRmgEEpX4GW8U6A9l_P) and place them in the "./embeddings".
 
 ## Dependencies
 
